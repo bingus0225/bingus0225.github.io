@@ -1,0 +1,64 @@
+body{
+    margin: 0;
+    font-family: 'Helvetica', Arial, sans-serif;
+    font-size: 23px;
+    color:black;
+    line-height: 30px;
+    background-image: url("sungerbob.png");
+     background-color: dimgray;
+}
+
+header{
+    background-color: midnightblue;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 1px;
+}
+
+h1, h2{
+    font-family: 'Dosis', sans-serif;
+}
+
+header h1{
+    color: white;
+}
+
+header img{
+    border-radius: 150px;
+    border: 12px solid gray;
+}
+
+main{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+main img{
+    max-width: 100%;
+}
+
+h2{
+    font-size: 34px;
+    color: maroon;
+}
+
+a{
+    color: navy;
+}
+a:hover{
+    color: #483a94;
+}
+
+footer{
+    background-color: midnightblue;
+    text-align: center;
+    color: white;
+    padding: 7px;
+}
+
+p.caption{
+    color: midnightblue;
+    font-style: italic;
+    margin-bottom: 0;
+}
