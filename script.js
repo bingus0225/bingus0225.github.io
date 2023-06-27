@@ -1,3 +1,3 @@
-var madeUsing = function (name) {
-    alert('this was made using: ' +name)
+var madeUsing = function (code) {
+    alert('this was made using: ' +code)
 }
