@@ -1,3 +1,3 @@
 var sayMyName = function (name) {
-    alert('this was made using:' + name)
+    alert('this was made using: ' + name)
 }
