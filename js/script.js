@@ -1,3 +1,3 @@
-var sayMyName = function (name) {
-    alert('My name is: ' + name)
+var madeUsing = function (name) {
+    alert('madeUsing: ' + name)
 }
