@@ -1,3 +1,3 @@
-var madeWith = function (name) {
-    alert('this was made using:' +name);
+var sayMyName = function (name) {
+    alert('my name is: '+name);
 }
